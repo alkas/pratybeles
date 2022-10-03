@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0001",
+    "name": "Walleye",
+    "scientific": "Sander Vitreus",
+    "environment": "Fresh Water",
+    "climate": {
+      "min": "",
+      "max": ""
+    },
+    "depth": {
+      "min": "0",
+      "max": "27",
+      "avMin": "",
+      "avMax": ""
+    },
+    "length": {
+      "common": "54",
+      "max": "107"
+    },
+    "weight": {
+      "common": "",
+      "max": "11.3"
+    },
+    "maxAge": "29",
+    "description": "Occurs in lakes, pools, backwaters, and runs of medium to large rivers. Frequently found in clear water, usually near brush..."
+  },
+  {
+    "id": "0002",
+    "name": "Northern Pike",
+    "scientific": "Esox Lucius",
+    "environment": "Fresh Water",
+    "climate": {
+      "min": "10",
+      "max": "28",
+    },
+    "depth": {
+      "min": "0",
+      "max": "30",
+      "avMin": "1",
+      "avMax": "5"
+    },
+    "length": {
+      "common": "55",
+      "max": "137"
+    },
+    "weight": {
+      "common": "",
+      "max": "28.4"
+    },
+    "maxAge": "30",
+    "description": "Occurs in clear vegetated lakes, quiet pools and backwaters of creeks and small to large rivers..."
+  }
+]
