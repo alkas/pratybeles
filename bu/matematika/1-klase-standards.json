@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Matematika.I.1.1",
+    "code": "1.1",
+    "domain": "Skaičiai ir skaičiavimai",
+    "activity": "Skaičių skaitymas rašymas palyginimas apvalinimas",
+    "attitude": "Paprasčiausiais atvejais sieti skaičius ir aritmetinius veiksmus su konkrečiais artimiausios aplinkos objektais ir situacijomis.",
+    "skill": "Perskaityti, užrašyti ir palyginti natūraliuosius skaičius iki 100, irašant tarp jų ženklą <, > arba =. Atlikti praktines įvairių daiktų ir objektų skaičiavimo užduotis.",
+    "knowledge": [
+      {
+        "code": "1",
+        "item": "Išvardyti natūraliuosius skaičius mažėjančia ir didėjančia tvarka, pasakyti nurodytam skaičiui gretimus skaičius 100 ribose. Pasakyti, kiek vienetų ir kiek pilnų dešimčių sudaro dviženklius skaičius, savais žodžiais paaiškinti skaitmens reikšmę dviženkliuose skaičiuose."
+      },
+      {
+        "code": "2",
+        "item": "Remiantis konkrečiais pavyzdžiais paaiškinti, kaip palyginti du natūraliuosius skaičius."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.1.2",
+    "code": "1.2",
+    "domain": "Skaičiai ir skaičiavimai",
+    "activity": "Aritmetiniai veiksmai su skaičiais",
+    "attitude": "Paprasčiausiais atvejais sieti skaičius ir aritmetinius veiksmus su konkrečiais artimiausios aplinkos objektais ir situacijomis.",
+    "skill": "Sudėti ir atimti vienaženklius bei dviženklius skaičius šimto ribose (lengvesniais atvejais – mintiniu, sunkesniais – rašytiniu būdu). Vienaženklių skaičių daugybą pakeisti vienodų dėmenų suma, o vienodų dėmenų sumą – daugybos veiksmu. Spręsti vienodų dėmenų sumos radimo formalius ir gyvenimiško turinio uždavinius. Atlikti praktines dalybos į lygias dalis užduotis. Pasirinkti tinkamą veiksmą paprasčiausiems uždaviniams spręsti, pasitikrinti skaičiavimo rezultatus.",
+    "knowledges": [
+      {
+        "code": "1",
+        "item": "Paaiškinti, kaip galima sudėti ir atimti natūraliuosius skaičius mintiniu ir rašytiniu būdu, iliustruoti skaičių 1, 2, 3, 4, 5 daugybos iš vienaženklių skaičių bei 10 veiksmus ir atitinkamos dalybos veiksmus praktiniais pavyzdžiais iš supančios aplinkos."
+      },
+      {
+        "code": "2",
+        "item": "Paaiškinti aritmetinių veiksmų poveikį skaičiui. Pasitikrinti sudėtį atimtimi, atimtį – sudėtimi."
+      },
+      {
+        "code": "3",
+        "item": "Savais žodžiais paaiškinti uždavinio sprendimo eigą."
+      },
+      {
+        "code": "4",
+        "item": "Remiantis konkrečiais pavyzdžiais, paaiškinti, kaip rasti skaičių, kuris yra keliais vienetais didesnis arba keliais vienetais mažesnis už duotąjį."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.2.1",
+    "code": "2.1",
+    "domain": "Reiškiniai, lygtys, nelygybės",
+    "activity": "Reiškinių reikšmių radimas",
+    "attitude": "Vertinti matematinių modelių naudingumą sprendžiant kasdienio gyvenimo problemas.",
+    "skill": "Apskaičiuoti paprasčiausių skaitinių reiškinių ar dydžių skaitines reikšmes.",
+    "knowledge": [
+      {
+        "code": "1",
+        "item": "Paaiškinti, kokia eilės tvarka bus atliekami veiksmai skaitiniame reiškinyje."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.2.2",
+    "code": "2.2",
+    "domain": "Reiškiniai, lygtys, nelygybės",
+    "activity": "Situacijų aprašymas reiškiniais",
+    "attitude": "Vertinti matematinių modelių naudingumą sprendžiant kasdienio gyvenimo problemas.",
+    "skill": "Aprašyti kasdienes praktines ir matematines situacijas paprasčiausiais skaitiniais reiškiniais.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Pasakyti keletą konkrečių situacijų, kurios atitiktų nurodytą paprasčiausią reiškinį."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.2.3",
+    "code": "2.3",
+    "domain": "Reiškiniai, lygtys, nelygybės",
+    "activity": "Tapatūs reiškinių pertvarkymai",
+    "attitude": "Vertinti matematinių modelių naudingumą sprendžiant kasdienio gyvenimo problemas.",
+    "skill": "Taikyti sudėties perstatomumo dėsnį siekiant palengvinti skaičiavimus.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Paaiškinti sudėties perstatomumo dėsnį remiantis konkrečiais pavyzdžiais."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.2.4",
+    "code": "2.4",
+    "domain": "Reiškiniai, lygtys, nelygybės",
+    "activity": "Lygčių sprendimas",
+    "attitude": "Vertinti matematinių modelių naudingumą sprendžiant kasdienio gyvenimo problemas.",
+    "skill": "Į paprasčiausią lygtį su vienu nežinomuoju pavidalo a * x = b (* atitinka +, –, ×, :) įrašyti skaičių ir patikrinti, ar gautoji lygybė yra teisinga.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Remiantis konkrečiu pavyzdžiu paaiškinti, kaip spręsti paprasčiausią lygtį su vienu nežinomuoju spėjimo būdu."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.2.5",
+    "code": "2.5",
+    "domain": "Reiškiniai, lygtys, nelygybės",
+    "activity": "Nelygybių sprendimas",
+    "attitude": "Vertinti matematinių modelių naudingumą sprendžiant kasdienio gyvenimo problemas.",
+    "skill": "Patikrinti, ar skaičius yra paprasčiausios skaitinės nelygybės x < a arba x > a sprendinys.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Paaiškinti, ką reiškia simboliai < ir >. Pateikti pavyzdžių, su kuriais skaičiais nelygybė x < a arba x > a yra teisinga."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.3.1",
+    "code": "3.1",
+    "domain": "Geometrija",
+    "activity": "Plokštumos figūrų pažinimas ir jų savybių taikymas",
+    "attitude": "Vertinti geometrijos žinias ir gebėjimus dėl jų suteikiamų galimybių geriau orientuotis aplinkoje.",
+    "skill": "Atpažinti ir tinkamai pavadinti atkarpą, kvadratą, stačiakampį, trikampį, skritulį. Modelyje parodyti trikampio ir stačiakampio viršūnes, kraštines, kampus. Pavaizduoti tašką, atkarpą. Taikyti žinias apie geometrines ﬁgūras paprasčiausiems uždaviniams spręsti.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Apibūdinti atkarpą, kvadratą, stačiakampį, trikampį, skritulį, pateikti daiktų pavyzdžių, kurie savo forma primena kvadratą, stačiakampį, trikampį, skritulį. Paaiškinti, kaip naudojantis liniuote nubrėžti nurodyto ilgio atkarpą."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.3.2",
+    "code": "3.2",
+    "domain": "Geometrija",
+    "activity": "Erdvės figūrų pažinimas ir jų savybių taikymas",
+    "attitude": "Vertinti geometrijos žinias ir gebėjimus dėl jų suteikiamų galimybių geriau orientuotis aplinkoje.",
+    "skill": "Atpažinti ir tinkamai pavadinti kubą ir rutulį.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Apibūdinti kubą ir rutulį. Pateikti daiktų pavyzdžių, kurie savo forma primena kubą, rutulį."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.3.3",
+    "code": "3.3",
+    "domain": "Geometrija",
+    "activity": "Orientavimasis plokštumoje ir erdvėje",
+    "attitude": "Vertinti geometrijos žinias ir gebėjimus dėl jų suteikiamų galimybių geriau orientuotis aplinkoje.",
+    "skill": "Savo kalboje tinkamai vartoti daiktų vietą nusakančius kasdienės kalbos žodžius (dešineje. kaireje, virš, už, po, prieš, vidury, šalia).",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Suprasti daiktų vietą nusakančius kasdienės kalbos žodžius (dešinėje, kairėje, virš, už, po, tarp, prieš, vidury, šalia)."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.4.1",
+    "code": "4.1",
+    "domain": "Matai ir matavimai",
+    "activity": "Objektų parametrų matavimas ir objektų braižymas",
+    "attitude": "Suvokti, kad išmatuoti reiškia rasti, kiek tam tikrų matavimo vienetų telpa į matuojamą objektą.",
+    "skill": "Taisyklingai skaityti ir užrašyti ilgio, masės, laiko, temperatūros matavimų bei pinigų skaičiavimo rezultatus vieniniais matiniais skaičiais. Liniuote išmatuoti atkarpos ilgį. Nubrėžti nurodyto ilgio atkarpą. Paprasčiausiais atvejais be matavimo įrankių nustatyti artimiausios aplinkos daiktų ilgį.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Išvardyti įrankius ir buitinius prietaisus, kuriais galima išmatuoti įvairius dydžius ar objektų parametrus."
+      },
+      {
+        "code": "2",
+        "knowledge": "Paaiškinti, kaip naudotis liniuote."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.4.2",
+    "code": "4.2",
+    "domain": "Matai ir matavimai",
+    "activity": "Uždavinių kuriuose reikia atlikti veiksmus su matiniais skaičiais sprendimas",
+    "attitude": "Suvokti, kad išmatuoti reiškia rasti, kiek tam tikrų matavimo vienetų telpa į matuojamą objektą.",
+    "skill": "Spręsti paprasčiausius uždavinius, kuriuose reikia atlikti veiksmus su vieniniais matiniais skaičiais.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Išvardyti šių dydžių matavimo vienetus: ilgio – cm, m; talpos – l; masės – kg; laiko – h, para; pinigų – litai ir centai, eurai ir eurocentai; temperatūros – laipsniai (Celsijaus). Žinoti gretimų matavimo vienetų sąryšius."
+      },
+      {
+        "code": "2",
+        "knowledge": "Atlikti veiksmus su vieniniais matiniais skaičiais."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.5.1",
+    "code": "5.1",
+    "domain": "Statistika",
+    "activity": "Duomenų rinkimas ir tvarkymas",
+    "attitude": "Vertinti įvairią informaciją.",
+    "skill": "Rinkti duomenis apie artimą aplinką (šeimą, draugus, klasę) pagal vieną požymį ir juos, mokytojui padedant, registruoti.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Mokytojui padedant, formuluoti klausimus apie artimą aplinką (šeimą, draugus, klasę), pagal kuriuos galima rinkti duomenis pagal vieną požymį."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.5.2",
+    "code": "5.2",
+    "domain": "Statistika",
+    "activity": "Duomenų vaizdavimas ir diagramų bei lentelių skaitymas",
+    "attitude": "Vertinti įvairią informaciją.",
+    "skill": "Skaityti informaciją, pateiktą stulpelinėse diagramose, dažnių lentelėse, kai duomenų skaičius nedidelis.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Paaiškinti, kas pavaizduota stulpeline diagrama ar lentele."
+      }
+    ]
+  },
+  {
+    "id": "Matematika.I.5.3",
+    "code": "5.3",
+    "domain": "Statistika",
+    "activity": "Duomenų vertinimas išvadų darymas",
+    "attitude": "Vertinti įvairią informaciją.",
+    "skill": "Remiantis surinktais (pateiktais) duomenimis, atsakyti į paprastus klausimus.",
+    "knowledge": [
+      {
+        "code": "1",
+        "knowledge": "Paaiškinti, kas pavaizduota stulpeline diagrama ar lentele."
+      }
+    ]
+  }
+]
